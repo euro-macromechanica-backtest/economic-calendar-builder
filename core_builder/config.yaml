@@ -1,0 +1,45 @@
+default_tz: UTC
+official_domains:
+- atlantafed.org
+- bancaditalia.it
+- bankofengland.co.uk
+- banque-france.fr
+- bde.es
+- bea.gov
+- bls.gov
+- boe.co.uk
+- bostonfed.org
+- bundesbank.de
+- census.gov
+- chicagofed.org
+- clevelandfed.org
+- dallasfed.org
+- destatis.de
+- ec.europa.eu
+- ecb.europa.eu
+- ecb.int
+- europa.eu
+- europeansources.info
+- eurostat.ec.europa.eu
+- federalreserve.gov
+- frb.org
+- frbsf.org
+- ine.es
+- insee.fr
+- ismworld.org
+- istat.it
+- kansascityfed.org
+- minneapolisfed.org
+- newyorkfed.org
+- ons.gov.uk
+- philadelphiafed.org
+- pmi.spglobal.com
+- richmondfed.org
+- seco.admin.ch
+- snb.ch
+- spglobal.com
+- statistics.admin.ch
+- stlouisfed.org
+weights:
+  authenticity_weight: 0.95
+  timing_weight: 0.05
